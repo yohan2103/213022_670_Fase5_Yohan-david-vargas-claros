@@ -8,11 +8,11 @@ def calcular_pedido(actual, minimo):
 
 # Matriz de inventario
 inventario = [
-    ["Arroz", 10, 20],
-    ["Azúcar", 25, 20],
-    ["Aceite", 5, 15],
-    ["Sal", 30, 25],
-    ["Harina", 8, 12]
+    ["001, Arroz", 10, 20],
+    ["002, Azúcar", 25, 20],
+    ["003, Aceite", 5, 15],
+    ["004, Sal", 30, 25],
+    ["005, Harina", 8, 12]
 ]
 
 print("LISTA DE PEDIDOS")
